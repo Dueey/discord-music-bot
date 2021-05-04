@@ -16,6 +16,7 @@
     "dotenv": "^8.2.0",
     "ffmpeg-static": "^4.3.0",
     "fs": "0.0.1-security",
+    "git": "^0.1.5",
     "images-scraper": "^6.3.0",
     "yt-search": "^2.7.6",
     "ytdl-core": "^4.5.0"
