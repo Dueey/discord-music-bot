@@ -14,11 +14,11 @@
     "@discordjs/opus": "^0.5.0",
     "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
-    "ffmpeg-static": "^4.3.0",
+    "ffmpeg-static": "^4.4.1",
     "fs": "0.0.1-security",
     "git": "^0.1.5",
     "images-scraper": "^6.3.0",
-    "yt-search": "^2.7.6",
-    "ytdl-core": "^4.5.0"
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.9.2"
   }
 }
